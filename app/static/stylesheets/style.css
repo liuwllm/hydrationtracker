@@ -1,0 +1,12 @@
+.flex-container{
+    display: flex;
+
+    justify-content: center;
+
+    align-items: center;
+
+    height: 200px;
+    color: #2a2f36;
+    font-size: 1.2rem;
+    background: #99d8ff;
+}
